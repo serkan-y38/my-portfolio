@@ -117,6 +117,20 @@ function Projects() {
             ]
         },
         {
+            name: "Enterprise Virtualization & Backup Lab",
+            brief: "A comprehensive virtualization environment designed to simulate enterprise IT infrastructure. " +
+                "Configured ESXi hypervisors, established centralized management via vCenter, and implemented automated" +
+                " data protection workflows using Veeam Backup.",
+            technologies: [
+                "VMware ESXi",
+                "vCenter",
+                "Veeam Backup",
+                "VMware Workstation",
+                "Windows Server 2022",
+                "Networking",
+            ]
+        },
+        {
             name: "Stack Overflow Paging App",
             brief: "An Android application that fetches and displays questions from Stack Overflow, " +
                 "implementing API pagination and local caching using Paging 3.",

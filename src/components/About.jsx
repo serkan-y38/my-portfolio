@@ -16,6 +16,9 @@ function About() {
         "Firebase",
         "Supabase",
         "Machine Learning",
+        "VMware ESXi",
+        "vCenter",
+        "Veeam Backup"
     ];
 
     return (
@@ -32,11 +35,7 @@ function About() {
 
                     <div className="pb-16 mb-0 transition-all">
                         <p className="text-gray-600 text-lg mb-8 max-w-lg mx-auto text-center">
-                            Hi, I'm Serkan - a passionate software developer currently completing my Computer
-                            Engineering degree. I specialize in building modern, scalable mobile applications using
-                            Flutter and Kotlin, with a strong emphasis on Clean Architecture and robust state
-                            management. I also have a deep interest in low-level computing, compiler theory, and
-                            on-device AI.
+                            Hi, I'm Serkan - a passionate Computer Engineer specializing in both software development and IT infrastructure. I build modern, scalable mobile applications using Flutter and Kotlin, with a strong emphasis on Clean Architecture and robust state management. Beyond mobile development, I have a deep interest in system virtualization, enterprise networking, and hardware integration. I thrive on building end-to-end solutions, from the code that users interact with to the infrastructure that powers it.
                         </p>
                     </div>
 
@@ -81,7 +80,16 @@ function About() {
                             Experience in building backend APIs with Spring Boot.
                         </p>
                         <p className="mb-4 max-w-lg mx-auto text-center">
-                            Networking Knowledge (Cisco Packet Tracer)
+                            Networking Knowledge / Configurations
+                        </p>
+                        <p className="mb-4 max-w-lg mx-auto text-center">
+                            System Virtualization & IT Management (VMware ESXi, vCenter, Veeam Backup).
+                        </p>
+                        <p className="mb-4 max-w-lg mx-auto text-center">
+                            Enterprise Networking & Infrastructure (TCP/IP, VLAN, Active Directory).
+                        </p>
+                        <p className="mb-4 max-w-lg mx-auto text-center">
+                            Hardware Integration & IoT (Bluetooth Low Energy, ESP32).
                         </p>
                         <p className="mb-0 max-w-lg mx-auto text-center">
                             Machine Learning Knowledge.

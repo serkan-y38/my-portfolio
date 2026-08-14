@@ -28,7 +28,7 @@ function Home() {
                     </span>
                 </h1>
                 <p className="text-gray-600 font-medium text-lg mb-10 max-w-lg mx-auto leading-relaxed">
-                    I am a mobile developer who loves creating interactive, scalable mobile applications.
+                    I am a Computer Engineer passionate about building scalable mobile applications and architecting robust IT, networking, and virtualization systems.
                 </p>
                 <div className="flex flex-col sm:flex-row justify-center items-center gap-5">
                     <a
