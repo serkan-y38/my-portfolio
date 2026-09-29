@@ -131,6 +131,17 @@ function Projects() {
             ]
         },
         {
+            "name": "Mastering Containerization",
+            "brief": "A hands-on laboratory environment configured on an Ubuntu Server via WSL and SSH. Focused on mastering Docker architecture, image management, and operating system-level containerization for scalable application deployment.",
+            "technologies": [
+                "Docker",
+                "Ubuntu Server",
+                "WSL",
+                "SSH",
+                "Linux CLI"
+            ]
+        },
+        {
             name: "Stack Overflow Paging App",
             brief: "An Android application that fetches and displays questions from Stack Overflow, " +
                 "implementing API pagination and local caching using Paging 3.",

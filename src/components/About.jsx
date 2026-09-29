@@ -18,7 +18,17 @@ function About() {
         "Machine Learning",
         "VMware ESXi",
         "vCenter",
-        "Veeam Backup"
+        "Veeam Backup",
+        "Docker",
+        "WSL",
+        "Linux",
+        "PostgreSQL",
+        "MySQL",
+        "Jetpack Compose",
+        "Room",
+        "Clean Architecture",
+        "Bloc",
+        "Cisco",
     ];
 
     return (
